@@ -1,0 +1,28 @@
+{
+  "name": "fysical-accessor",
+  "version": "0.1.0",
+  "description": "Package to aid in working with the Fysical Smart Contract hosted on the Ethereum blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FysicalLabs/fysical-accessor.js.git"
+  },
+  "keywords": [
+    "Fysical",
+    "Ethereum",
+    "API"
+  ],
+  "author": "John Livingston Foley III <john@fysical.com> (https://fysical.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FysicalLabs/fysical-accessor.js/issues"
+  },
+  "homepage": "https://github.com/FysicalLabs/fysical-accessor.js#readme",
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.4",
+    "web3": "^1.0.0-beta.34"
+  }
+}
